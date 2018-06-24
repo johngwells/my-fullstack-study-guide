@@ -1,6 +1,7 @@
 # Basics of css 
 
-###### links to my project files / CodePen
+###### links to my project files / CodePen. 
+###### Project: Animated Gallery
 
 resources: [MDN Animation Documentation](https://developer.mozilla.org/en-US/docs/Web/CSS/animation)
 
@@ -27,8 +28,14 @@ resources: [MDN Animation Documentation](https://developer.mozilla.org/en-US/doc
 
 ### Transitions
 
+###### Best performances: translate() scale() rotate() opacity()
+
 [Transition Playground - Codepen](https://codepen.io/molekewl/pen/QxxrJy "My CodePen")
 
 - [MDN Transition Timing Function](https://developer.mozilla.org/en-US/docs/Web/CSS/transition-timing-function)
 - [Website Easings - Examples](https://easings.net/)
 - [Test effects tool](https://matthewlein.com/tools/ceaser)
+
+## Final
+###### What I made after learning the basics of animations, transform & transitions.
+[Animated Gallery](https://codepen.io/molekewl/pen/MXXXzX)
